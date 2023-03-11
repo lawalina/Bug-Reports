@@ -6,3 +6,9 @@
 - [Example 1](https://github.com/lawalina/Bug-Reports/issues/1#issue-1615276588)
 - [Example 2](https://github.com/lawalina/Bug-Reports/issues/2#issue-1615399675)
 - [Example 3](https://github.com/lawalina/Bug-Reports/issues/3#issue-1619776771)
+
+### Mobile application bugs
+
+- [Example 1](https://github.com/lawalina/Bug-Reports/issues/4#issue-1619976537)
+- [Example 2](https://github.com/lawalina/Bug-Reports/issues/5#issue-1619984824)
+
